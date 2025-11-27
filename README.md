@@ -7,17 +7,25 @@ The final tuned model (SVM) achieves high accuracy and reliably distinguishes fa
 FEATURES -
 
 Text cleaning and preprocessing
+
 TF-IDF feature extraction
+
 Training & evaluation of ML models
+
 Hyperparameter tuning
+
 Confusion matrix & accuracy results
 
 DATASET -
 
 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?resource=download&select=True.csv
+
 Uses two files:
+
 Fake.csv
+
 True.csv
+
 Both are combined and labeled for binary classification.
 
 MODEL PERFORMANCE -
