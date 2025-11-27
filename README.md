@@ -17,6 +17,7 @@ Hyperparameter tuning
 Confusion matrix & accuracy results
 
 Dataset -
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?resource=download&select=True.csv
 
 Uses two files:
 
